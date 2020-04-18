@@ -1,0 +1,24 @@
+.books{
+    width: 600px;
+    background-color: cornflowerblue;
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    color: aquamarine;
+    font-size: 24px;
+}
+.journals{
+    width: 600px;
+    background-color: rgb(148, 100, 237);
+    margin: 10px auto;
+    text-align: center;
+    padding: 10px;
+    border-radius: 10px;
+    color:rgb(237, 100, 196);
+    font-size: 24px;
+}
+body{
+    display: inline-flex;
+    flex-wrap: wrap;
+}
